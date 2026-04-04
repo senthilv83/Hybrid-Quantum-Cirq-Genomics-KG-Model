@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kumar"
+  given-names: "Senthil"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Hybrid-Quantum-Cirq-Genomics-KG-Model: A Quantum-Classical Hybrid Approach to Genomic Knowledge Graph Modeling"
+version: 1.0.0
+date-released: 2024-01-01
+url: "https://github.com/senthilv83/Hybrid-Quantum-Cirq-Genomics-KG-Model"
+keywords:
+  - Quantum Computing
+  - Google Cirq
+  - Genomics
+  - Knowledge Graph
+  - Machine Learning
