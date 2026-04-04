@@ -1,4 +1,4 @@
-# Hybrid-Quantum-Cirq-Genomics-KG-Model
+# Hybrid Quantum-Classical Knowledge Graph Model for Genomic Sequence Analysis using Google Cirq
 
 [![Quantum Computing](https://img.shields.io/badge/Quantum-Cirq-blueviolet)](https://quantumai.google/cirq)
 [![Bioinformatics](https://img.shields.io/badge/Genomics-Knowledge%20Graph-green)](#)
@@ -6,6 +6,8 @@
 
 ## 🚀 Overview
 The **Hybrid Quantum-Classical Genomics Knowledge Graph Model** is a cutting-edge framework that integrates **Google Cirq** with classical Deep Learning to analyze complex genomic structures. By leveraging **Quantum Machine Learning (QML)**, this project transforms genomic sequence data into structured **Knowledge Graphs (KG)** and processes them through variational quantum circuits to discover hidden biological relationships.
+
+Designed by **Senthilkumar Vijayakumar** (IEEE Senior Member).
 
 ### Technical Deep Dive
 *   **Quantum-Classical Hybrid Architecture:** Utilizes Variational Quantum Circuits (VQC) as specialized feature encoding layers within a neural network.
@@ -42,3 +44,18 @@ The **Hybrid Quantum-Classical Genomics Knowledge Graph Model** is a cutting-edg
 
 ## 🤝 Contributing
 Contributions in Quantum Bioinformatics and QML are welcome! Please open an issue or submit a pull request.
+
+## 📝 Citation
+
+If you utilize this framework or code in your research, please use the following citation:
+
+```bibtex
+@software{Vijayakumar_Quantum_Genomics_2026,
+  author = {Vijayakumar, Senthilkumar},
+  title = {Hybrid Quantum-Classical Knowledge Graph Model for Genomic Sequence Analysis using Google Cirq},
+  year = {2026},
+  url = {https://github.com/senthilv83/Hybrid-Quantum-Cirq-Genomics-KG-Model},
+  orcid = {0009-0009-6436-9003}
+}
+```
+*(See `CITATION.cff` for more details).*

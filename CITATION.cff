@@ -4,13 +4,18 @@ authors:
 - family-names: "Vijayakumar"
   given-names: "Senthilkumar"
   orcid: "https://orcid.org/0009-0009-6436-9003"
-title: "Hybrid-Quantum-Cirq-Genomics-KG-Model: A Quantum-Classical Hybrid Approach to Genomic Knowledge Graph Modeling"
+  email: "senthilkumar.vb@gmail.com"
+  affiliation: "IEEE Senior Member"
+title: "Hybrid Quantum-Classical Knowledge Graph Model for Genomic Sequence Analysis using Google Cirq"
 version: 1.0.0
-date-released: 2024-01-01
+date-released: 2026-04-04
 url: "https://github.com/senthilv83/Hybrid-Quantum-Cirq-Genomics-KG-Model"
 keywords:
   - Quantum Computing
   - Google Cirq
   - Genomics
   - Knowledge Graph
-  - Machine Learning
+  - Bioinformatics
+  - Quantum Machine Learning (QML)
+  - Hybrid AI
+abstract: "A Hybrid Quantum-Classical Genomics Knowledge Graph Model integrating Google Cirq with classical Deep Learning. This framework transforms genomic sequence data into structured Knowledge Graphs (KG) and processes them through variational quantum circuits to discover hidden biological relationships and long-range dependencies."
