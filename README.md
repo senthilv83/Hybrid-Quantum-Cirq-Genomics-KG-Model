@@ -5,12 +5,7 @@
 [![Bioinformatics](https://img.shields.io/badge/Genomics-Knowledge%20Graph-green)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## ℹ️ About
-Hybrid Quantum-Classical Genomics Knowledge Graph Model using Google Cirq. Integrates Variational Quantum Circuits (VQC) and the **Mixture of Recursions (MoR)** paradigm with classical Deep Learning to analyze complex genomic structures and expression data.
 
-**URL:** [orcid.org/0009-0009-6436-9003](https://orcid.org/0009-0009-6436-9003)
-
-**Topics:** `bioinformatics`, `genomics`, `qml`, `gene-expression`, `knowledge-graph`, `quantum-computing`, `quantum-machine-learning`, `cirq`, `hybrid-quantum-classical`, `mixture-of-recursions`, `mor`
 
 ## 🚀 Overview
 The **Hybrid Quantum-Classical Genomics Knowledge Graph Model with Mixture of Recursions (MoR)** is a cutting-edge framework that integrates **Google Cirq** and **PyTorch** to analyze complex genomic structures. By leveraging advanced **Quantum Machine Learning (QML)** and the **Mixture of Recursions (MoR)** paradigm, this project transforms genomic sequence data into structured **Topological Knowledge Graphs (KG)** and processes them through a highly expressive, dynamically routed quantum architecture.
