@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 Overview
-The **Hybrid Quantum-Classical Genomics Knowledge Graph Model** is a cutting-edge framework that integrates **Google Cirq** and **PyTorch** to analyze complex genomic structures. By leveraging advanced **Quantum Machine Learning (QML)**, this project transforms genomic sequence data into structured **Topological Knowledge Graphs (KG)** and processes them through a highly expressive, dynamically routed quantum architecture.
+The **Hybrid Quantum-Classical Genomics Knowledge Graph Model with Mixture of Recursions (MoR)** is a cutting-edge framework that integrates **Google Cirq** and **PyTorch** to analyze complex genomic structures with dynamically adaptive quantum compute budgeting. By leveraging advanced **Quantum Machine Learning (QML)**, this project transforms genomic sequence data into structured **Topological Knowledge Graphs (KG)** and processes them through a highly expressive, dynamically routed quantum architecture.
 
 Designed by **Senthilkumar Vijayakumar** (IEEE Senior Member).
 
