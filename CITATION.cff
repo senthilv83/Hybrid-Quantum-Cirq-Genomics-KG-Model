@@ -6,16 +6,21 @@ authors:
   orcid: "https://orcid.org/0009-0009-6436-9003"
   email: "senthilkumar.vb@gmail.com"
   affiliation: "IEEE Senior Member"
-title: "Hybrid Quantum-Classical Knowledge Graph Model for Genomic Sequence Analysis using Google Cirq"
-version: 1.0.0
+title: "Hybrid Quantum-Classical Knowledge Graph Model with Mixture of Recursions (MoR) for Genomic Sequence Analysis"
+version: 2.0.0
 date-released: 2026-04-04
 url: "https://github.com/senthilv83/Hybrid-Quantum-Cirq-Genomics-KG-Model"
 keywords:
-  - Quantum Computing
-  - Google Cirq
-  - Genomics
-  - Knowledge Graph
-  - Bioinformatics
   - Quantum Machine Learning (QML)
-  - Hybrid AI
-abstract: "A Hybrid Quantum-Classical Genomics Knowledge Graph Model integrating Google Cirq with classical Deep Learning. This framework transforms genomic sequence data into structured Knowledge Graphs (KG) and processes them through variational quantum circuits to discover hidden biological relationships and long-range dependencies."
+  - Google Cirq
+  - PyTorch
+  - Mixture of Recursions (MoR)
+  - Quantum Neural Network (QNN)
+  - Knowledge Graph
+  - Topological Embeddings
+  - Spectral Laplacian
+  - Readout Error Mitigation (QEC)
+  - Genomics
+  - Bioinformatics
+  - NISQ
+abstract: "A state-of-the-art Hybrid Quantum-Classical Genomics Knowledge Graph Model integrating Google Cirq and PyTorch. This framework introduces the Dynamic Mixture of Recursions (MoR) paradigm to Quantum Neural Networks, enabling confidence-based early exits to save quantum compute overhead. It transforms genomic sequence data into topological Knowledge Graphs (KG) via Laplacian Spectral Embeddings and processes them through an end-to-end differentiable, strongly entangling variational quantum circuit with Readout Error Mitigation (QEC). The architecture discovers hidden biological relationships and long-range dependencies with >86% accuracy."
