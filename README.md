@@ -5,8 +5,13 @@
 [![Bioinformatics](https://img.shields.io/badge/Genomics-Knowledge%20Graph-green)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## ℹ️ About
+A state-of-the-art Hybrid Quantum-Classical Genomics Knowledge Graph Model integrating Google Cirq and PyTorch. This framework introduces the **Dynamic Mixture of Recursions (MoR)** paradigm and Readout Error Mitigation (QEC) to achieve >86% accuracy in sequence classification, drastically reducing quantum compute overhead via confidence-based early exits.
+
+**Topics:** `quantum-machine-learning`, `google-cirq`, `pytorch`, `mixture-of-recursions`, `mor`, `knowledge-graph`, `bioinformatics`, `error-mitigation`, `genomics`, `quantum-neural-network`
+
 ## 🚀 Overview
-The **Hybrid Quantum-Classical Genomics Knowledge Graph Model with Mixture of Recursions (MoR)** is a cutting-edge framework that integrates **Google Cirq** and **PyTorch** to analyze complex genomic structures with dynamically adaptive quantum compute budgeting. By leveraging advanced **Quantum Machine Learning (QML)**, this project transforms genomic sequence data into structured **Topological Knowledge Graphs (KG)** and processes them through a highly expressive, dynamically routed quantum architecture.
+The **Hybrid Quantum-Classical Genomics Knowledge Graph Model with Mixture of Recursions (MoR)** is a cutting-edge framework that integrates **Google Cirq** and **PyTorch** to analyze complex genomic structures. By leveraging advanced **Quantum Machine Learning (QML)** and the **Mixture of Recursions (MoR)** paradigm, this project transforms genomic sequence data into structured **Topological Knowledge Graphs (KG)** and processes them through a highly expressive, dynamically routed quantum architecture.
 
 Designed by **Senthilkumar Vijayakumar** (IEEE Senior Member).
 
